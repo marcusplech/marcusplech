@@ -21,7 +21,11 @@
 <div>
  <a href = "mailto:mplechdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devmarcusplech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
   
+  ##
+  
+ 😄 Fun fact: I love playing games and trading cryptocurrencies.
   
   ![Snake animation](https://github.com/marcusplech/marcusplech/blob/output/github-contribution-grid-snake.svg)
   
@@ -42,5 +46,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ 
 -->
