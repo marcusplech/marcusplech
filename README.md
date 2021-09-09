@@ -1,6 +1,6 @@
 ### ⚡ Hi there, I'm Marcus Plech ⚡
 
-👨‍💻 I'm a Front-end Developer who is passionate about sciente, math, scalable projects and explore new technologies.
+👨‍💻 I'm a Front-end developer who is passionate about sciente, math, scalable projects and explore new technologies.
 
 ##
 
