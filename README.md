@@ -2,6 +2,8 @@
 
 👨‍💻 I'm a Front-end developer who is passionate about science, math, scalable projects and explore new technologies.
 
+😄 Fun fact: I love playing games and trading cryptocurrencies.
+
 ##
 
 ### 🔨 Tech Stack:
@@ -25,7 +27,7 @@
   
   ##
   
- 😄 Fun fact: I love playing games and trading cryptocurrencies.
+ 
   
   ![Snake animation](https://github.com/marcusplech/marcusplech/blob/output/github-contribution-grid-snake.svg)
   
