@@ -1,4 +1,4 @@
-### ⚡ Hi there, I'm Marcus Plech ⚡
+### ⚡ Hi there, I'm Marcus Plech. [Visit my website](https://mplechdev.com) ⚡
 
 👨‍💻 I'm a Front-end developer, React specialist who is passionate about science, math, scalable projects and explore new technologies.
 
@@ -14,20 +14,18 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
 
 ##
 
 ### 🌐 Find me:
 <div>
- <a href = "mailto:mplechdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mplechdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devmarcusplech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+</div>
   
-  ##
-  
- 
+##
   
   ![Snake animation](https://github.com/marcusplech/marcusplech/blob/output/github-contribution-grid-snake.svg)
   
