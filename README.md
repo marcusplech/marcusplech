@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a Front-end developer, React specialist who is passionate about science, math, scalable projects and explore new technologies.
 
-😄 Fun fact: I love playing games and trading cryptocurrencies.
+😄 Fun fact: I love playing games and trading stock options.
 
 ##
 
